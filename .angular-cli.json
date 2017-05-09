@@ -6,10 +6,10 @@
   "apps": [
     {
       "root": "src",
-      "outDir": "dist",
+      "outDir": "output",
       "assets": [
         "assets",
-        "favicon.ico"
+        "capgeminiIcon.ico"
       ],
       "index": "index.html",
       "main": "main.ts",
